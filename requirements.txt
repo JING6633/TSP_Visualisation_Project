@@ -1,3 +1,6 @@
 Flask
 gunicorn
 matplotlib
+ipywidgets
+ipython
+numpy
